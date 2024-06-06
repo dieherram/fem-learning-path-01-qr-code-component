@@ -1,6 +1,6 @@
 # Frontend Mentor - Solución al componente de código QR
 
-Esta es una solución al [desafío del componente de código QR en Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+Esta es mi solución al [desafío del componente de código QR en Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Descripción general
 
@@ -13,6 +13,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 ### Enlaces
 
 - URL de la solución: [GitHub](https://github.com/dieherram/fem-learning-path-01-qr-code-component)
+- URL del sitio en vivo: [GitHub Pages](https://dieherram.github.io/fem-learning-path-01-qr-code-component/)
 
 ## Mi proceso
 
