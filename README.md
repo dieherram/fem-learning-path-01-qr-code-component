@@ -6,9 +6,9 @@ Esta es mi solución al [desafío del componente de código QR en Frontend Mento
 
 ### Captura de pantalla
 
-![Escritorio](./screenshot-desktop-improved.png)
+![Escritorio](./screenshot-desktop.png)
 
-![Móvil](./screenshot-mobile-improved.png)
+![Móvil](./screenshot-mobile.png)
 
 ### Enlaces
 
